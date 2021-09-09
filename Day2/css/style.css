@@ -1,0 +1,45 @@
+/* my first css */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(205, 233, 190);
+}
+
+.big {
+    border: 10px solid green;
+}
+h1{
+    background-color: rgb(250, 249, 249);
+    border: 5px dotted pink;
+}
+blockquote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+
+}
+p{
+    color: #AAB0B5;
+}
+cite{
+
+    font-size: 1rem;
+    
+}
+.bigbold{
+    font-weight: bold;
+    font-size: 1rem;
+}
+div{
+    border: 5px blue solid;
+    margin-top: 1rem;
+}
+.box1{
+    border-color:  orange ;
+    background-color: thistle;
+}
+.box3{
+    background-image: url(http://placekitten.com/200/300);
+    height: 175px;
+}
