@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Özcan Hir 
-- 👀 I’m interested in HTML,CSS,JavaScript and Python
-- 🌱 I’m currently learning HTML,CSS,JavaScript and Python
-- 💞️ I’m looking to collaborate on personal website
+- 👀 I’m interested in Data Sciense,Python,JavaScript,HTML and CSS
+- 🌱 I’m currently learning Data Sciense, Pythonand JavaScript 
+- 💞
 - 📫 How to reach me ...
 
 <!---
