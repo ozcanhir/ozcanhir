@@ -1,12 +1,17 @@
  ## About me
+ 
+
+<!-- TO DO: add more details about me later -->
+
+
  Hi 👋, I'm Özcan
 - 🥰 I'm passionate about data science, environment, people, culture and language.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg" width="700" height="250">
 </picture>
+
 
 
 ### Here are some ideas to get you started:
@@ -19,13 +24,17 @@
 - 📫 How to reach me: oezcanhir@gmail.com
 
 
-<details>
-<summary> My top THINGS-TO-RANK</summary>
+
+
+### My top THINGS-TO-RANK
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| SQL       |
 |     3| Javascript|
-</details>
 
+---
+>  "If we pull together and commit ourselves, then we can push through anything".
+- Özcan Hir
+</details>
