@@ -1,5 +1,5 @@
  Hi 👋, I'm Özcan
-- 🥰 I'm passionate about data science, environment, people, culture and language
+- 🥰 I'm passionate about data science, environment, people, culture and language.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg">
