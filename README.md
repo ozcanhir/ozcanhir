@@ -1,3 +1,4 @@
+ ## About me
  Hi 👋, I'm Özcan
 - 🥰 I'm passionate about data science, environment, people, culture and language.
 
@@ -7,7 +8,8 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg" width="700" height="250">
 </picture>
 
-Here are some ideas to get you started:
+
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning SQL
@@ -16,8 +18,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 - 📫 How to reach me: oezcanhir@gmail.com
 
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| SQL       |
 |     3| Javascript|
+</details>
+
