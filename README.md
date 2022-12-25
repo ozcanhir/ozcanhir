@@ -14,12 +14,12 @@
 
 
 
-### Here are some ideas to get you started:
+### I'm ...
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning SQL
-- 👯 I’m looking to collaborate on Data Science with Python
-- 🤔 I’m looking for help with Dashbord-API
+- 🔭 ...  currently working on Data Science
+- 🌱 ...  currently learning SQL
+- 👯 ...  looking to collaborate on Data Science with Python
+- 🤔 ...  looking for help with Dashbord-API
 - 💬 Ask me about Python
 - 📫 How to reach me: oezcanhir@gmail.com
 
