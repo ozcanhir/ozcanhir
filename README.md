@@ -2,9 +2,9 @@
 - 🥰 I'm passionate about data science, environment, people, culture and language
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2017/03/23/09/34/robot-2167836_960_720.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2017/03/23/09/34/robot-2167836_960_720.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."https://cdn.pixabay.com/photo/2017/03/23/09/34/robot-2167836_960_720.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."https://cdn.pixabay.com/photo/2014/10/29/12/07/robot-507811_960_720.jpg" width="700" height="250">
 </picture>
 
 Here are some ideas to get you started:
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| Javascript|
-|     3| SQL       |
+|     2| SQL       |
+|     3| Javascript|
