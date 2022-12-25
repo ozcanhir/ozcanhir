@@ -20,9 +20,7 @@
 
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
+<summary> My top THINGS-TO-RANK</summary>
 
 | Rank | Languages |
 |-----:|-----------|
