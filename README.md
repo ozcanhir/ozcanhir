@@ -16,8 +16,8 @@
 
 ### I'm ...
 
-- 🔭 ...  currently working on Data Science
-- 🌱 ...  currently learning SQL
+- 🔭 ...  Currently working on Capstone Project in Data Science and ML 
+- 🌱 ...  learning SQL
 - 👯 ...  looking to collaborate on Data Science with Python
 - 🤔 ...  looking for help with Dashbord-API
 - 💬 Ask me about Python
